@@ -11,3 +11,8 @@ pub mod variables {
     pub mod variable_type;
     pub mod variables_and_mutability;
 }
+
+pub mod basic_data_types {
+    pub mod integer_types;
+    pub mod intro;
+}

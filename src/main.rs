@@ -16,4 +16,6 @@ fn main() {
     // common_programming_concepts::variables::constant_type::main();
 
     // BASIC DATA TYPES
+    // common_programming_concepts::basic_data_types::intro::main();
+    common_programming_concepts::basic_data_types::integer_types::main();
 }
