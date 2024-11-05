@@ -17,5 +17,13 @@ fn main() {
 
     // BASIC DATA TYPES
     // common_programming_concepts::basic_data_types::intro::main();
-    common_programming_concepts::basic_data_types::integer_types::main();
+    // common_programming_concepts::basic_data_types::integer_types::main();
+    // common_programming_concepts::basic_data_types::floating_point_types::main();
+    // common_programming_concepts::basic_data_types::numeric_operations::main();
+    // common_programming_concepts::basic_data_types::convert_fahrenheit_to_celsius::main();
+    // common_programming_concepts::basic_data_types::booleans::main();
+    // common_programming_concepts::basic_data_types::morning_or_evening::main();
+    // common_programming_concepts::basic_data_types::characters::main();
+    // common_programming_concepts::basic_data_types::character_kinds::main();
+    common_programming_concepts::basic_data_types::using_clippy_as_external_linter::main();
 }

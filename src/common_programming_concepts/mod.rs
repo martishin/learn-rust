@@ -13,6 +13,14 @@ pub mod variables {
 }
 
 pub mod basic_data_types {
+    pub mod booleans;
+    pub mod character_kinds;
+    pub mod characters;
+    pub mod convert_fahrenheit_to_celsius;
+    pub mod floating_point_types;
     pub mod integer_types;
     pub mod intro;
+    pub mod morning_or_evening;
+    pub mod numeric_operations;
+    pub mod using_clippy_as_external_linter;
 }
