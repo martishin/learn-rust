@@ -24,3 +24,16 @@ pub mod basic_data_types {
     pub mod numeric_operations;
     pub mod using_clippy_as_external_linter;
 }
+
+pub mod functions {
+    pub mod define_a_function;
+    pub mod extract_method_refactoring;
+    pub mod function_parameters;
+    pub mod functions_with_return_values;
+    pub mod intro;
+    pub mod pass_an_argument;
+    pub mod return_a_value;
+    pub mod return_type;
+    pub mod statements_and_expressions;
+    pub mod type_annotation_of_a_parameter;
+}

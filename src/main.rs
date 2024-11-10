@@ -25,5 +25,17 @@ fn main() {
     // common_programming_concepts::basic_data_types::morning_or_evening::main();
     // common_programming_concepts::basic_data_types::characters::main();
     // common_programming_concepts::basic_data_types::character_kinds::main();
-    common_programming_concepts::basic_data_types::using_clippy_as_external_linter::main();
+    // common_programming_concepts::basic_data_types::using_clippy_as_external_linter::main();
+
+    // Functions
+    // common_programming_concepts::functions::intro::main();
+    // common_programming_concepts::functions::function_parameters::main();
+    // common_programming_concepts::functions::statements_and_expressions::main();
+    // common_programming_concepts::functions::define_a_function::main();
+    // common_programming_concepts::functions::type_annotation_of_a_parameter::main();
+    // common_programming_concepts::functions::pass_an_argument::main();
+    // common_programming_concepts::functions::functions_with_return_values::main();
+    // common_programming_concepts::functions::return_type::main();
+    // common_programming_concepts::functions::return_a_value::main();
+    common_programming_concepts::functions::extract_method_refactoring::main();
 }
