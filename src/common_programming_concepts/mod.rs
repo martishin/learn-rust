@@ -37,3 +37,13 @@ pub mod functions {
     pub mod statements_and_expressions;
     pub mod type_annotation_of_a_parameter;
 }
+
+pub mod conditions {
+    pub mod add_conditions;
+    pub mod calculate_price;
+    pub mod else_if;
+    pub mod intro;
+    pub mod manage_conditions;
+    pub mod return_the_bigger_number;
+    pub mod using_if_in_a_let_statement;
+}

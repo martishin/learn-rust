@@ -37,5 +37,14 @@ fn main() {
     // common_programming_concepts::functions::functions_with_return_values::main();
     // common_programming_concepts::functions::return_type::main();
     // common_programming_concepts::functions::return_a_value::main();
-    common_programming_concepts::functions::extract_method_refactoring::main();
+    // common_programming_concepts::functions::extract_method_refactoring::main();
+
+    // Conditions
+    // common_programming_concepts::conditions::intro::main();
+    // common_programming_concepts::conditions::else_if::main();
+    // common_programming_concepts::conditions::using_if_in_a_let_statement::main();
+    // common_programming_concepts::conditions::return_the_bigger_number::main();
+    // common_programming_concepts::conditions::add_conditions::main();
+    // common_programming_concepts::conditions::manage_conditions::main();
+    common_programming_concepts::conditions::calculate_price::main();
 }
