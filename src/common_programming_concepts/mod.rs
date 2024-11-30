@@ -47,3 +47,11 @@ pub mod conditions {
     pub mod return_the_bigger_number;
     pub mod using_if_in_a_let_statement;
 }
+
+pub mod tuples_and_arrays {
+    pub mod create_an_array;
+    pub mod destructure_a_tuple;
+    pub mod the_array_type;
+    pub mod the_tuple_type;
+    pub mod use_a_tuple_index;
+}

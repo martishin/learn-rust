@@ -27,7 +27,7 @@ fn main() {
     // common_programming_concepts::basic_data_types::character_kinds::main();
     // common_programming_concepts::basic_data_types::using_clippy_as_external_linter::main();
 
-    // Functions
+    // FUNCTIONS
     // common_programming_concepts::functions::intro::main();
     // common_programming_concepts::functions::function_parameters::main();
     // common_programming_concepts::functions::statements_and_expressions::main();
@@ -39,12 +39,19 @@ fn main() {
     // common_programming_concepts::functions::return_a_value::main();
     // common_programming_concepts::functions::extract_method_refactoring::main();
 
-    // Conditions
+    // CONDITIONS
     // common_programming_concepts::conditions::intro::main();
     // common_programming_concepts::conditions::else_if::main();
     // common_programming_concepts::conditions::using_if_in_a_let_statement::main();
     // common_programming_concepts::conditions::return_the_bigger_number::main();
     // common_programming_concepts::conditions::add_conditions::main();
     // common_programming_concepts::conditions::manage_conditions::main();
-    common_programming_concepts::conditions::calculate_price::main();
+    // common_programming_concepts::conditions::calculate_price::main();
+
+    // TUPLES AND ARRAYS
+    // common_programming_concepts::tuples_and_arrays::the_tuple_type::main();
+    // common_programming_concepts::tuples_and_arrays::destructure_a_tuple::main();
+    // common_programming_concepts::tuples_and_arrays::use_a_tuple_index::main();
+    // common_programming_concepts::tuples_and_arrays::the_array_type::main();
+    common_programming_concepts::tuples_and_arrays::create_an_array::main();
 }
