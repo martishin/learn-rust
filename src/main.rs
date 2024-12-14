@@ -1,5 +1,6 @@
 #![allow(dead_code)]
 mod common_programming_concepts;
+mod understanding_ownership;
 
 fn main() {
     // COMMON PROGRAMMING CONCEPTS
@@ -61,5 +62,23 @@ fn main() {
     // common_programming_concepts::repetitions::conditional_loops_with_while::main();
     // common_programming_concepts::repetitions::looping_through_an_array_with_for::main();
     // common_programming_concepts::repetitions::looping_through_ranges::main();
-    common_programming_concepts::repetitions::task_find_a_sum::main();
+    // common_programming_concepts::repetitions::task_find_a_sum::main();
+
+    // UNDERSTANDING OWNERSHIP
+    // WHAT IS OWNERSHIP
+    // understanding_ownership::what_is_ownership::intro::main();
+    // understanding_ownership::what_is_ownership::variable_scope::main();
+    // understanding_ownership::what_is_ownership::task_explore_scopes::main();
+    // understanding_ownership::what_is_ownership::the_string_type::main();
+    // understanding_ownership::what_is_ownership::task_build_string_from_literals::main();
+    // understanding_ownership::what_is_ownership::moving_ownership::main();
+    // understanding_ownership::what_is_ownership::task_who_owns_the_one_ring::main();
+    // understanding_ownership::what_is_ownership::clone_and_copy::main();
+    // understanding_ownership::what_is_ownership::task_tuples_clone_or_copy::main();
+    // understanding_ownership::what_is_ownership::ownership_and_functions::main();
+    // understanding_ownership::what_is_ownership::return_values_and_scope::main();
+    // understanding_ownership::what_is_ownership::task_more_exclamations::main();
+    // understanding_ownership::what_is_ownership::task_more_exclamations_2::main();
+    // understanding_ownership::what_is_ownership::task_more_exclamations_with_mutable_argument::main();
+    understanding_ownership::what_is_ownership::task_more_exclamations_without_arguments::main();
 }
